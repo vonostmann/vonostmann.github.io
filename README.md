@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<a id="ancor1"></a>
+# Welcome to gittest project lab
+---
+[![Картинка](3.jpg)](https://github.com/vonostmann/gittest)
 
-You can use the [editor on GitHub](https://github.com/vonostmann/vonostmann.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+***
+* текст 1
+    * текст 2
+        * текст 3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+__Code Example 1:__
+_Code Example 1:_
+___Code Example 1:___ 
+<b id="ancor2"></b>
 ```
+<!DOCTYPE html>
+<html lang="en">
+    <!-- <meta charset="UTF-8"> -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <!-- <meta http-equiv="X-UA-Compatible" content="ie=edge"> -->
+    <!-- <link rel="stylesheet" href="css/main.css" -->
+    <title>Work with Git</title>
+</head>
+<body>
+    <p>Git + GitHub</p>
+    <h2>Hello</h2> 
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+    <!-- new comment for branch-->
+    <!-- code for about branch -->
+</body>
+</html>
+```
+***
+> Quote 1
+[Ссылка на проект](https://github.com/vonostmann/gittest.git) 
+Сноска [^1]
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+>> Quote 2
+[Ссылка на проект](https://github.com/vonostmann/gittest.git)
+Сноска [^2]
 
-### Jekyll Themes
+_Table 1:_
+Text 1 | Text 2 | Text 3 |
+:------|:-------|--------:
+Attribute 1 | 1 | 123 
+Attribute 2 | 2 | 345
+Attribute 3 | 3 | 567
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vonostmann/vonostmann.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Data Engineering
+: Special area 1
 
-### Support or Contact
+Data Science
+: Special area 2
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Вверх ап!](#ancor1)
+
+[К коду ап!](#ancor2)
+
+[^1]: Text 1
+[^2]: Text 2
