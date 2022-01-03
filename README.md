@@ -5,9 +5,9 @@
 [![Картинка](3.jpg)](https://github.com/vonostmann/gittest)
 ***
 
-* текст 1
-    * текст 2
-        * текст 3
+* текст 0
+    * текст 1
+        * текст 2
 
 
 __Code Example 1:__
