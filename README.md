@@ -44,9 +44,9 @@ ___Code Example 1:___
 _Table 1:_
 Text 1 | Text 2 | Text 3 |
 :------|:-------|--------:
-Attribute 1 | 1 | 123 
-Attribute 2 | 2 | 345
-Attribute 3 | 3 | 567
+Attribute 0 | 1 | 123 
+Attribute 1 | 2 | 345
+Attribute 2 | 3 | 567
 
 Data Engineering
 : Special area 1
