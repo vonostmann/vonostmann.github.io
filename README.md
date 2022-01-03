@@ -1,14 +1,14 @@
 <a id="ancor1"></a>
+
 # Welcome to gittest project lab
 ---
 [![Картинка](3.jpg)](https://github.com/vonostmann/gittest)
-
-
-
 ***
+
 * текст 1
     * текст 2
         * текст 3
+
 
 __Code Example 1:__
 _Code Example 1:_
