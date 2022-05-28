@@ -187,41 +187,7 @@
                                         <p>- Perform IAT/FAT/SAT of equipment.</p>
                                         <p>- Act as 1st/2nd line Support.</p>
                                     </p>
-                                    <h3>
-                                        # Projects
-                                    </h3>
-                                   
-                                    <!-- gallery begin here -->
-                                    <div class="gallery-block">
-                                        <div class="gallery left">
-                                            <div class="img">
-                                                <img src="images/image-ex.jpg" alt="" />
-                                            </div>
-                                            <div class="des">
-                                                Mariner Rig
-                                            </div>
-                                            <div class="block-zoom">
-                                                <a href="https://youtu.be/5XSHXIAIVmU" rel="prettyPhoto" title="Images" class="zoom">
-                                                </a>
-                                                <a href="https://youtu.be/5XSHXIAIVmU" target= 'blank' title="Link" class="link">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="gallery left last">
-                                            <div class="img">
-                                                <img src="images/image-ex.jpg" alt="" />
-                                            </div>
-                                            <div class="des">
-                                                Falcon Eye
-                                            </div>
-                                            <div class="block-zoom">
-                                                <a href="https://youtu.be/3UjhI-MObpw" rel="prettyPhoto" title="Images" class="zoom">
-                                                </a>
-                                                <a href="https://youtu.be/3UjhI-MObpw" target="blank" title="Link" class="link">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>                                        
+                                                                
                                     <!-- gallery end here -->
                                 </div>
                             </div>
