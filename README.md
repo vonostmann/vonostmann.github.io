@@ -161,7 +161,7 @@
                                                     Pale Blue AS
                                                 </a>
                                             </span>
-                                            / Senior Engineer 2019 - 2020
+                                            / Senior Engineer 2019 - 2020 (consultant for MHWirth)
                                         </li>
                                         <li>
                                             <span>
