@@ -319,7 +319,7 @@
                                             </li>
                                             <li>
                                                 Download
-                                                <a href="#">
+                                                <a href="Documentation/Profile.pdf">
                                                     CV
                                                 </a>
                                             </li>
