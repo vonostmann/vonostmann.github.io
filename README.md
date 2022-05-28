@@ -202,7 +202,6 @@
                                             </div>
                                             <div class="block-zoom">
                                                 <a href="https://youtu.be/5XSHXIAIVmU" rel="prettyPhoto" title="Images" class="zoom">
-                                                  <iframe width="1904" height="721" src="https://www.youtube.com/embed/5XSHXIAIVmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                 </a>
                                                 <a href="https://youtu.be/5XSHXIAIVmU" target= 'blank' title="Link" class="link">
                                                 </a>
